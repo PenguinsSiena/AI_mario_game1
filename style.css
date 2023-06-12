@@ -1,0 +1,60 @@
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+    font-family: 'Sigmar', cursive;
+    letter-spacing: 2px;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+    font-family: 'Ysabeau', sans-serif;
+    letter-spacing: 1px;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start {
+    font-size: 22px;
+    border-radius: 10px;
+    border: 3px solid rgb(15, 62, 15);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+}
+
+#status {
+    font-size: 22px;
+    border-radius: 10px;
+    border: 3px solid rgb(103, 27, 0);
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: 1px;
+}
+
+h4{
+background-color: rgb(211, 167, 167);
+line-height: 2;
+margin: 0px;
+}
+
+.instruction_image{
+    width: 100%;
+    border-radius: 20%;
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 22px;
+}
